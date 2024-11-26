@@ -12,5 +12,4 @@ Which channel delivery delivered most of the products? What is the order status 
 ![Screenshot 2024-11-26 172804](https://github.com/user-attachments/assets/eaa20708-7707-4a2d-b9f0-78a9b9a03535)
 ## Pivot Tables used
 ![Screenshot 2024-11-26 172728](https://github.com/user-attachments/assets/5c510f07-19b4-439b-9ba8-0ca3e084cf69)
-
-
+##Data used for analysis <https://github.com/UjjwalGupta245/Vrinda-Store-EDA/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx>
